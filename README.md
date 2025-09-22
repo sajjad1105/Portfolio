@@ -5,6 +5,9 @@
 A clean, beautiful, and responsive portfolio template for software developers, showcasing skills, projects, and contact information.
 
 Check out the live website: [Md Sajjad Khan Portfolio](https://my-personal-portfolio-sajjadkhan.netlify.app/)
+## 🧑‍💻 Live Preview
+
+[![Portfolio Screenshot](https://i.imgur.com/yourImageID.jpg)](https://my-personal-portfolio-sajjadkhan.netlify.app/)
 
 
 
