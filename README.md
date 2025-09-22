@@ -1,5 +1,5 @@
 # Portfolio
-🎉 This is my personal portfolio website, built with React. It showcases my skills, projects, education, and achievements. The website features a responsive design with a sticky navbar for easy navigation. Each section—About Me, Education, Skills, Projects, and Achievements—provides detailed information about my background and work.
+🎉 This is my personal portfolio website, built with React. It showcases my skills, projects, education, and achievements. The website features a responsive design with a sticky navbar for easy navigation. Each section—About Me, Education, Skills, Projects, and Achievements—provides detailed information about my background and works.
 # Personal Portfolio ⚡️
 
 A clean, beautiful, and responsive portfolio template for software developers, showcasing skills, projects, and contact information.
@@ -7,7 +7,6 @@ A clean, beautiful, and responsive portfolio template for software developers, s
 Check out the live website: [Md Sajjad Khan Portfolio](https://my-personal-portfolio-sajjadkhan.netlify.app/)
 ## 🧑‍💻 Live Preview
 
-[![Portfolio Screenshot](https://i.imgur.com/yourImageID.jpg)](https://my-personal-portfolio-sajjadkhan.netlify.app/)
 
 
 
