@@ -1,7 +1,7 @@
-# 🚀 Personal Developer Portfolio – Md Sajjad Khan
+# 🚀 Personal Portfolio – Md Sajjad Khan
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f6e5b4b-fake-badge-status/deploy-status)](https://my-personal-portfolio-sajjadkhan.netlify.app/)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/sajjad105/Portfolio)
+[![GitHub stars](https://img.shields.io/github/stars/sajjad1105/Portfolio)](https://github.com/sajjad105/Portfolio)
 
 🎉 Welcome to my personal portfolio built with **React.js**. This project is designed to showcase my skills, projects, education, and achievements in a clean, modern, and responsive UI.
 
@@ -47,9 +47,6 @@ This portfolio can be deployed on **Netlify**, **GitHub Pages**, **Vercel**, or 
 ⭐ Support
 If you like this project, please ⭐️ it on GitHub — it helps others discover it too!
 
-⭐ Support
-If you like this project, please ⭐️ it on GitHub — it helps others discover it too!
-
 
 📬 Contact
 Feel free to connect with me:
@@ -77,10 +74,7 @@ npm install
 
 # 4. Start the development server
 npm start
-
-
-
-
+------------------------------
 Made with ❤️ by Md Sajjad Khan
 
 
