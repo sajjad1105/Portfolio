@@ -1,32 +1,52 @@
-# Portfolio
-🎉 This is my personal portfolio website, built with React. It showcases my skills, projects, education, and achievements. The website features a responsive design with a sticky navbar for easy navigation. Each section—About Me, Education, Skills, Projects, and Achievements—provides detailed information about my background and works.
-# Personal Portfolio ⚡️
+# 🚀 Personal Developer Portfolio – Md Sajjad Khan
 
-A clean, beautiful, and responsive portfolio template for software developers, showcasing skills, projects, and contact information.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f6e5b4b-fake-badge-status/deploy-status)](https://my-personal-portfolio-sajjadkhan.netlify.app/)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Check out the live website: [Md Sajjad Khan Portfolio](https://my-personal-portfolio-sajjadkhan.netlify.app/)
-## 🧑‍💻 Live Preview
+🎉 Welcome to my personal portfolio built with **React.js**. This project is designed to showcase my skills, projects, education, and achievements in a clean, modern, and responsive UI.
 
-
-
-
-
+🔗 **Live Preview**: [Md Sajjad Khan Portfolio](https://my-personal-portfolio-sajjadkhan.netlify.app/)
 
 ---
 
-⭐ **Star me on GitHub — it helps!**
+## ✨ Features
 
-## Features 📋
+- 🔥 **Responsive Design** – Looks great on all screen sizes
+- 🌙 **Dark / Light Theme Toggle** – Switch seamlessly between light and dark modes
+- ⚡ **Smooth Animations** – CSS + JavaScript-based animations
+- 💼 **Project Showcase** – Interactive cards for each project
+- 🧠 **Skills, Education & Achievements** – Well-structured and easy to browse
+- 🧩 **Modular & Clean Code** – Easy to customize and extend
 
-- ⚡️ Fully Responsive
-- ⚡️  Light and Dark Theme Toggle
-- ⚡️ Interactive animations with CSS and JavaScript
-- ⚡️ Easy to modify
+---
 
-## Installation & Deployment 📦
+## 🖥️ Tech Stack
 
-Clone the repository and modify it according to your requirement.
+- **React.js** – Frontend Framework
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **React Icons**
+- **Netlify** – Deployment
+- **GitHub Pages** *(alternative deployment)*
 
-I highly recommend using **GitHub Pages** to deploy the website — the EASIEST WAY.
+---
+
+## 📦 Installation & Setup
+
+To run this project locally, follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2. Navigate to the project directory
+cd your-repo-name
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
 
 
