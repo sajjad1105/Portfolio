@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.45576e62.css",
+    "main.js": "/Portfolio/static/js/main.22149859.js",
+    "static/js/453.aac68abc.chunk.js": "/Portfolio/static/js/453.aac68abc.chunk.js",
+    "static/media/myPhoto2.png": "/Portfolio/static/media/myPhoto2.a4e0fd3a36913e40c92e.png",
+    "static/media/TripConnect.png": "/Portfolio/static/media/TripConnect.91abd21a463ee95115cc.png",
+    "static/media/WeatherApps.png": "/Portfolio/static/media/WeatherApps.4bf83f7df725d504c6b7.png",
+    "static/media/E-commerce-store.png": "/Portfolio/static/media/E-commerce-store.442c0760eac36617fab8.png",
+    "static/media/logo.jpg": "/Portfolio/static/media/logo.e9529dfafc26179caed2.jpg",
+    "static/media/Flow-Builder.png": "/Portfolio/static/media/Flow-Builder.61f63a3f818087a33578.png",
+    "static/media/imagetextsummarizer.png": "/Portfolio/static/media/imagetextsummarizer.3e7792f6dfea66df62c5.png",
+    "static/media/SGT.png": "/Portfolio/static/media/SGT.fc0d5b4ce6e13cb54e58.png",
+    "index.html": "/Portfolio/index.html",
+    "static/media/star.svg": "/Portfolio/static/media/star.bbd7068825eac8b1987e0f2373ea191c.svg",
+    "main.45576e62.css.map": "/Portfolio/static/css/main.45576e62.css.map",
+    "main.22149859.js.map": "/Portfolio/static/js/main.22149859.js.map",
+    "453.aac68abc.chunk.js.map": "/Portfolio/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45576e62.css",
+    "static/js/main.22149859.js"
+  ]
+}
