@@ -50,18 +50,14 @@ If you like this project, please ⭐️ it on GitHub — it helps others discove
 ⭐ Support
 If you like this project, please ⭐️ it on GitHub — it helps others discover it too!
 
+
 📬 Contact
 Feel free to connect with me:
 
-🌐 LinkedIn
-
-🐦 Twitter
-
-📸 Instagram
-
-📧 Email: sajjadrockstar@8294.com
-
-
+- 🌐 [LinkedIn](http://www.linkedin.com/in/md-sajjad-khan)
+- 🐦 [Twitter](https://twitter.com/Hanxee_Sajjad05)
+- 📸 [Instagram](https://www.instagram.com/hanxee_sajjad_05)
+- 📧 Email: sajjadrockstar@8294.com
 
 
 
