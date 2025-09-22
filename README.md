@@ -1,8 +1,7 @@
 # 🚀 Personal Developer Portfolio – Md Sajjad Khan
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f6e5b4b-fake-badge-status/deploy-status)](https://my-personal-portfolio-sajjadkhan.netlify.app/)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/sajjad105/Portfolio)
 
 🎉 Welcome to my personal portfolio built with **React.js**. This project is designed to showcase my skills, projects, education, and achievements in a clean, modern, and responsive UI.
 
@@ -31,6 +30,35 @@
 - **GitHub Pages** *(alternative deployment)*
 
 ---
+## 🚀 Deployment
+
+This portfolio can be deployed on **Netlify**, **GitHub Pages**, **Vercel**, or any static hosting service.
+
+### ✅ Deploying on Netlify:
+
+1. Push your code to **GitHub**
+2. Go to [Netlify](https://www.netlify.com/)
+3. Click **"New Site from Git"**
+4. Connect your GitHub repository
+5. Set the build command:
+   ```bash
+   npm run build
+
+⭐ Support
+If you like this project, please ⭐️ it on GitHub — it helps others discover it too!
+
+
+📬 Contact
+Feel free to connect with me:
+
+- 🌐 [LinkedIn](http://www.linkedin.com/in/md-sajjad-khan)
+- 🐦 [Twitter](https://twitter.com/Hanxee_Sajjad05)
+- 📸 [Instagram](https://www.instagram.com/hanxee_sajjad_05)
+- 📧 Email: sajjadrockstar@8294.com
+
+
+
+
 
 ## 📦 Installation & Setup
 
@@ -48,5 +76,6 @@ npm install
 
 # 4. Start the development server
 npm start
+## Made with ❤️ by Md Sajjad Khan
 
 
