@@ -52,6 +52,7 @@ const Project = () => {
       projectType: "Real-Time Full Stack Travel App",
     },
     {
+
       // sourceCodeLink: "https://github.com/sajjad1105/segment-tree-visualization",
       deployedLink: "https://segment-tree-visualization.vercel.app/",
       name: "Segment Tree Visualizer",
@@ -61,6 +62,7 @@ const Project = () => {
       image: SGT,
       projectType: "Advanced DSA Visualizer",
     },
+    
     {
       // sourceCodeLink: "https://github.com/sajjad1105/E-Commerce-Store",
       // deployedLink: "https://github.com/Sajjad1105/E-Commerce-Store",
