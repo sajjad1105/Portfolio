@@ -5,7 +5,8 @@ import "./CodingProfileCSS.css";
 const CodingProfilesSection = () => {
   const codingProfiles = [
     {
-      link: "https://leetcode.com/u/Md_Sajjad_Khan/",
+        
+      link: "https://leetcode.com/u/Md_Sajjad_Khan/" ,
       icon: "https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-social-preview.png?v=1714774949349",
     },
     {
