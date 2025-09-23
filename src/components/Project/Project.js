@@ -43,7 +43,7 @@ const Project = () => {
     },
     {
       // sourceCodeLink: "https://github.com/sajjad105/Trip-connect",
-      // deployedLink: "https://saini-yogesh.github.io/Trip-connect/",
+      // deployedLink: "https://sajjad1105.github.io/Trip-connect/",
       name: "Trip-connect",
       description:
         "Trip-Connect is a platform that connects solo travelers to share expenses and enhance social interactions. Built with React.js, Node.js, Express.js, and MongoDB, it offers a responsive UI and real-time travel planning features for a seamless experience.",
@@ -53,7 +53,7 @@ const Project = () => {
     },
     {
       // sourceCodeLink: "https://github.com/sajjad1105/segment-tree-visualization",
-      // deployedLink: "https://segment-tree-visualization.vercel.app/",
+      deployedLink: "https://segment-tree-visualization.vercel.app/",
       name: "Segment Tree Visualizer",
       description:
         "The Segment Tree Visualizer is a web-based application built using Next.js that provides an interactive way to understand and visualize different types of segment trees. This project showcases efficient data structure operations and dynamic visualizations.",
@@ -62,8 +62,8 @@ const Project = () => {
       projectType: "Advanced DSA Visualizer",
     },
     {
-      // sourceCodeLink: "https://github.com/Saini-Yogesh/E-Commerce-Store",
-      // deployedLink: "https://github.com/Saini-Yogesh/E-Commerce-Store",
+      // sourceCodeLink: "https://github.com/sajjad1105/E-Commerce-Store",
+      // deployedLink: "https://github.com/Sajjad1105/E-Commerce-Store",
       name: "E-Commerce-Store",
       description:
         "E-Commerce Website is a modern shopping platform built with React, Node.js, Express.js, and MongoDB. It features user authentication, product browsing, shopping cart, secure payments (PayPal/Stripe), and an admin dashboard for managing inventory and orders. With a responsive design and seamless experience, it ensures smooth transactions.",
