@@ -53,7 +53,7 @@ const Project = () => {
     },
     {
 
-      // sourceCodeLink: "https://github.com/sajjad1105/segment-tree-visualization",
+      sourceCodeLink: "https://github.com/sajjad1105/Segment-Tree-Visualizer",
       deployedLink: "https://segment-tree-visualization.vercel.app/",
       name: "Segment Tree Visualizer",
       description:
