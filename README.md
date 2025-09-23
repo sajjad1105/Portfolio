@@ -6,7 +6,7 @@
 🎉 Welcome to my personal portfolio built with **React.js**. This project is designed to showcase my skills, projects, education, and achievements in a clean, modern, and responsive UI.
 
 🔗 **Live Preview**: [Md Sajjad Khan Portfolio](https://my-personal-portfolio-sajjadkhan.netlify.app/)
-![My Photo](https://github.com/sajjad1105/Portfolio/blob/main/src/images/projectImages/myPhoto2.png?raw=true)
+
 
 ---
 
