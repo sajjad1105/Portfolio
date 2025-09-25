@@ -7,10 +7,20 @@ import TripConnect from "../../images/projectImages/TripConnect.png";
 import FlowBuilder from "../../images/projectImages/Flow-Builder.png";
 import ImageTextSummarizer from "../../images/projectImages/imagetextsummarizer.png";
 import WeatherApps from "../../images/projectImages/WeatherApps.png";
+import  cutmreaslt from "../../images/projectImages/cutmresult..png";
 
 
 const Project = () => {
   const projectData = [
+    {
+      sourceCodeLink: "https://github.com/sajjad1105/Cutm-Result-Portal",
+      deployedLink: "https://cutm-result-portal.vercel.app/",
+      name: "Cutm Result Portal",
+      description: "🚀About Cutm-Result-Portal is a Python Flask app using MongoDB to manage CUTM student results. Admins add, update, and delete exam results and backlogs, while students securely view results and backlog status in real-time. Features include GPA calculation, backlog tracking, batch filtering, and data export for efficient record management. ",
+      languages: "Flask (Python) |MongoDB with PyMongo |Pandas for data processing|Openpyxl for Excel generation|ReportLab for PDF generation| HTML | CSS | APIs  ",
+    image: cutmreaslt,
+      projectType: "Student Result Management System",
+    },
       {
       sourceCodeLink: "https://github.com/sajjad1105/Weather-Apps",
       deployedLink: "https://sajjad1105.github.io/Weather-Apps/",
